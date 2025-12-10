@@ -1,0 +1,9 @@
+# Seguridad
+db_config.php
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Si tuvieras carpeta de librerías PDF (no la veo, pero por si acaso)
+/vendor/
